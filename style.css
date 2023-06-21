@@ -9,9 +9,11 @@ body {
   min-width: 100%;
   background: linear-gradient(pink, violet);
 }
+#submitBtn{
 
+}
 button {
-  font-size: 7px;
+  font-size: 17px;
 }
 
 #main-content {
@@ -34,4 +36,14 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+li{
+  list-style: none;
+  padding-left: 0;
+  margin: 10px;
+}
+ul{
+  margin: 0;
+  padding: 0;
 }
